@@ -25,3 +25,9 @@ const logTodo=(id:number, title:string, completed:boolean)=>{
         Is it finished :${completed}
     `);
 }
+
+//  git init.
+//git remote add origin https://github.com/apex-user/RepoName.git
+//git add -A
+//git commit -m "Message you would like to put"
+//git push origin master
